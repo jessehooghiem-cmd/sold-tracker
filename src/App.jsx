@@ -9,6 +9,7 @@ const salesmanColors = {
   Jerry: "#2fa84f",
   Matt: "#ff8a1c",
   Carmon: "#7b45c9",
+  Chad: "#f7cb06",
   Other: "#64748b",
 };
 
