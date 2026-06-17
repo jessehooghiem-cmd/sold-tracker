@@ -403,6 +403,7 @@ export default function App() {
             <option>Jerry</option>
             <option>Matt</option>
             <option>Carmon</option>
+            <option>Chad</option>
             <option>Other</option>
           </select>
 
