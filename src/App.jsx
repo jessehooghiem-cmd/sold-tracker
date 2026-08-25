@@ -9,7 +9,7 @@ const salesmanColors = {
   Jerry: "#2fa84f",
   Matt: "#ff8a1c",
   Carmon: "#7b45c9",
-  Chad: "#f7cb06",
+  Scott: "#f7cb06",
   Other: "#64748b",
 };
 
@@ -403,7 +403,7 @@ export default function App() {
             <option>Jerry</option>
             <option>Matt</option>
             <option>Carmon</option>
-            <option>Chad</option>
+            <option>Scott</option>
             <option>Other</option>
           </select>
 
